@@ -6,8 +6,8 @@ public class Test
     {
 
 //        File f = new File(3);
-
-        // Test 1
+//
+//        // Test 1
 //        Thread T1 = new Thread(() ->
 //        {
 //            try
@@ -54,6 +54,36 @@ public class Test
     }
 
 }
+
+
+//Unittest
+//intervall ( 0,15 ) Locked
+//intervall ( 0,15 ) UnLocked
+//intervall ( 1,1 ) Locked
+//intervall ( 1,1 ) UnLocked
+//intervall ( 7,12 ) Locked
+//intervall ( 7,12 ) UnLocked
+//intervall ( 23,37 ) Locked
+//intervall ( 23,37 ) UnLocked
+//intervall ( 0,77 ) Locked
+//intervall ( 0,77 ) UnLocked
+//intervall ( 7,12 ) Locked
+//intervall ( 7,12 ) Locked
+//intervall ( 7,12 ) Locked
+//intervall ( 7,12 ) Locked
+//intervall ( 7,12 ) Locked
+//intervall ( 0,1 ) Locked
+//intervall ( 0,1 ) Locked
+//intervall ( 0,1 ) UnLocked
+//intervall ( 0,1 ) Locked
+//intervall ( 0,1 ) UnLocked
+//intervall ( 1,2 ) Locked
+//intervall ( 0,1 ) Locked
+//intervall ( 0,1 ) UnLocked
+//intervall ( 0,1 ) Locked
+//intervall ( 0,1 ) UnLocked
+//intervall ( 0,1 ) Locked
+
 
 /*
  * Fehler Innerhalb des Tests soll wie folgt vorgegangen werden: 1) Es wird ein
